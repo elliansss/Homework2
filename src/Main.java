@@ -57,7 +57,6 @@ public class Main {
  System.out.println(residue);
  var CommonHours = 640;
  var AmountOfCollaborators = CommonHours / 8;
- System.out.println(AmountOfCollaborators);
  System.out.println("Всего работников в компании - " + AmountOfCollaborators + " человек.");
  AmountOfCollaborators = AmountOfCollaborators + 94;
  System.out.println(AmountOfCollaborators);
